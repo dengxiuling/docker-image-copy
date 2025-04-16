@@ -3,3 +3,4 @@
 #ghcr.io/immich-app/immich-server:release
 #ghcr.io/immich-app/immich-machine-learning:release
 openjdk:11.0.16-jre
+#
