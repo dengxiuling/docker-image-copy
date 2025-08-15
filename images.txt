@@ -2,5 +2,6 @@
 # 不指定tag则使用latest
 #ghcr.io/immich-app/immich-server:release
 #ghcr.io/immich-app/immich-machine-learning:release
-busybox
+# busybox
 ##
+apacherocketmq/rocketmq-nameserver:4.5.0-alpine-operator-0.3.0
