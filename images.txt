@@ -4,4 +4,4 @@
 #ghcr.io/immich-app/immich-machine-learning:release
 # busybox
 ##
-minio
+bitnami/minio:2023.3.24-debian-11-r7
